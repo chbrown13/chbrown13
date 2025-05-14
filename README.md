@@ -1,6 +1,6 @@
 <table>
   <tr><td valign="bottom">
-    <img src="./assets/img/brown.jpg" width="100">
+    <img src="./imgs/brown.jpg" width="100">
     </td>
     <td valign="bottom">
       <b>Dr. Chris Brown</b><br>      
