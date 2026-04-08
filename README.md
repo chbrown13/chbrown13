@@ -1,9 +1,9 @@
 <table>
-  <tr><td valign="bottom">
-    <img src="./imgs/brown.jpg" width="100">
-    </td>
+  <tr>
     <td valign="bottom">
-      <b>Dr. Chris Brown</b><br>      
+      <b>Dr. Chris Brown</b><br> 
+    </td></tr>
+  <tr><td>
       Assistant Professor<br>
       Computer Science<br>      
       Virginia Tech
