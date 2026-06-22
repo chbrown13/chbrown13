@@ -18,7 +18,8 @@ My research explores empirical, interdisciplinary, and automated methods to impr
 **Other links:**
 * [Personal website](https://chbrown13.github.io/)
 * [Research Group](https://code-world-no-blanket.github.io/) ❄️🌍
-* [Blog](https://code-world-no-blanket.github.io/blog/)
+* [Blog](https://code-world-no-blanket.github.io/blog/) 
+* [Active Research Studies](https://github.com/orgs/code-world-no-blanket/discussions/categories/research-studies)
 * [LinkedIn](https://www.linkedin.com/in/chris-brown-04840654/)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=MmgiKNkAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F78_HJ89LDIopy2rAQwWOkF_D8aDZ4dGsFilA7BpNCva8nj8QOzFJG1H_1kyk0-EYHSBgHrKWtEx9OmEsMZNOix11gDuFgjgbvfCIE_xP_whZAtBW8)
 * [CS Authors](https://www.csauthors.net/chris-brown-001/)
